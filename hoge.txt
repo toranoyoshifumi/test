@@ -1,3 +1,6 @@
 Hello world!!!
 
 Happy hacking.
+
+I am a Japanese man.
+I like playing baseball.
